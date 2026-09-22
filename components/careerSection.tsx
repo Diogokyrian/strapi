@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 const CareerSection = () => {
   return (
-    <section className='w-full pb-20  bg-[#ffffff] text-white flex items-center justify-center px-8 md:px-16 py-0 relative overflow-hidden'>
+    <section className='w-full pb-20  bg-[#ffffff] text-white flex items-center justify-center px-8 md:px-16 py-15 relative overflow-hidden'>
       
       <div className='max-w-6xl w-full bg-[#ffffff]/80 border border-blue-900/50 rounded-3xl p-8 md:p-12 shadow-2xl grid grid-cols-1 md:grid-cols-2 items-center gap-12'>
         
