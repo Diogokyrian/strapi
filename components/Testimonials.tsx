@@ -28,10 +28,10 @@ const Testimonials = () => {
 
           
           <div className='flex items-center gap-4 mt-4'>
-            <button className='w-10 h-10 rounded-full bg-black border border-blue-400/30 flex items-center justify-center text-blue-200 hover:bg-blue-600/50 transition-colors'>
+            <button className='w-10 h-10 flex items-center justify-center text-black hover:bg-blue-600/50 transition-colors'>
               ←
             </button>
-            <button className='w-10 h-10 rounded-full bg-black border border-blue-400/30 flex items-center justify-center text-blue-200 hover:bg-blue-600/50 transition-colors'>
+            <button className='w-10 h-10 flex items-center justify-center text-black hover:bg-blue-600/50 transition-colors'>
               →
             </button>
           </div>
