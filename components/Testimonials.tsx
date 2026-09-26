@@ -15,7 +15,7 @@ const Testimonials = () => {
             See what others are saying about us
           </h2>
           
-          <p className='text-black text-sm md:text-base leading-relaxed italic'>
+          <p className='text-black text-sm montserrat  md:text-base leading-relaxed '>
             &ldquo;Explore the course catalog and syllables to identify courses that align with personal learning objectives. Take advantage of interactive tutorials we offer to reinforce your understanding and apply concepts in real world scenarios.&rdquo;
           </p>
 
